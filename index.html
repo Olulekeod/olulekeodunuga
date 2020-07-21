@@ -125,7 +125,7 @@
                                     <!-- Social -->
                                     <div class="social">
                                         <div class="nav">
-											 <a href="https://www.facebook.com/odunugaoluleke"><i class="fa fa-linkedin"></i></a>
+											 <a href="http://linkedin.com/in/oluleke-odunuga-36b036140"><i class="fa fa-linkedin"></i></a>
 											  <a href="https://github.com/Olulekeod"><i class=" fa fa-github"></i></a>
 											
                                             <a href="https://www.facebook.com/odunugaoluleke"><i class="fab fa-facebook-f"></i></a>
@@ -859,5 +859,4 @@ experience.</p>
 </body>
 
 
-<!-- Mirrored from www.pxdraft.com/themeforest/keet/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 25 Jun 2020 08:56:49 GMT -->
 </html>
