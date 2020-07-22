@@ -7,8 +7,8 @@
     <meta name="author" content="themepaa">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="Portfolio Template">
-    <meta name="description" content="Portfolio Template">
+    <meta name="keywords" content="Oluleke's portfolio">
+    <meta name="description" content="Oluleke's portfolio">
     <!-- title -->
     <title>Oluleke Odunuga Portfolio</title>
     <!-- Favicon -->
