@@ -107,7 +107,7 @@
                                 </header>
                                 <!-- Header End -->
                                 <!-- Home -->
-                                <section class="px-page section-active home-banner pt-page_1" style="background-image: url(static/img/home-bg.jpg);">
+                                <section class="px-page section-active home-banner pt-page_1" style="background-image: url(static/img/Olulekebackground.jpg);">
                                     <!-- lang -->
                                     <div class="lang">
                                         <div class="nav">
